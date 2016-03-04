@@ -1,7 +1,7 @@
 name: Derek
 favicon: null
-layout_spectrum: 0.49666
-typography_spectrum: 0.09933
+layout_spectrum: 0
+typography_spectrum: 0.32708
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5
-  lightness: 0.9314139140769839
-  saturation: 0.9294850206933916
-  rhythmicContrast: 0.5358450079802424
+  brandStrength: 0.125
+  lightness: 0.5625
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
